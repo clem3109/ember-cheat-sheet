@@ -1,8 +1,8 @@
 title: Notation
 description: >
-  Unlike JavaScript, Ember templates use
-  <a href="https://en.wikipedia.org/wiki/Polish_notation">
-    Polish Notation
+  Contrairement au JavaScript, les modèles (templates en anglais) d'Ember utilisent la 
+  <a href="https://fr.wikipedia.org/wiki/Notations_infixée,_préfixée,_polonaise_et_postfixée">
+    notation polonaise
   </a>
-  or <em>Prefix Notation</em> which means that operators (or functions) <em>precede</em> their operands (arguments).
-js-equiv: which is the equivalent of this, in JavaScript
+  ou <em>notation préfixée</em>. Ce qui veut dire que les opérateurs (ici les fonctions) <em>précédent</em> leurs opérandes (ici leurs arguments).
+js-equiv: Ce qui est l'équivalent de ceci en JavaScript.
